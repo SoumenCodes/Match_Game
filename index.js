@@ -6,23 +6,23 @@ let cardsArray = [
     },
     {
         'name': "HTML",
-        'img': "/img/html5.png",
+        'img': "img/html5.png",
     },
     {
         'name': "jQuery",
-        'img': "/img/jquery.png",
+        'img': "img/jquery.png",
     },
     {
         'name': "node",
-        'img': "/img/nodejs.png",
+        'img': "img/nodejs.png",
     },
     {
         'name': "JS",
-        'img': "/img/js.png",
+        'img': "img/js.png",
     },
     {
         'name': "Python",
-        'img': "/img/python.png",
+        'img': "img/python.png",
     },
 ];
 
